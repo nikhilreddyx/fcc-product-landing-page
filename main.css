@@ -41,7 +41,7 @@ a:hover{
 }
 form{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
 #image{
     text-align: center;
